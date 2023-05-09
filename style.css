@@ -1,0 +1,19 @@
+.letra{
+    font-family: 'Montserrat', sans-serif;
+}
+textarea {
+    width: 50%;
+    height: 100%;
+    resize: none;
+    color: black;
+    border: 100px;
+    padding: 20px;
+    font-size: 16px;
+  }
+  
+  body {
+    background-image: url(https://images6.alphacoders.com/451/451608.jpg);
+    margin: 0;
+    padding: 0;
+        height: 100vh;}
+        
